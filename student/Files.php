@@ -174,9 +174,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
-                    <li class="nav-item">
+                   <!--  <li class="nav-item">
                         <a class="nav-link active"  href="../index.php">Home</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
           <a class="nav-link" href="./display.php" >Display</a>
                     </li>
@@ -189,20 +189,6 @@
         </div>
     </nav>
 
-    <!-- <div class="container mt-5">
-        <h2 class="text-center">Upload Files</h2>
-        <form action="server.php" method="post" enctype="multipart/form-data">
-            <div class="form-floating mb-3">
-                <input type="text" name="title" class="form-control" placeholder="Title">
-                <label for="title">Title</label>
-            </div>
-            <div class="form-group mb-3">
-                <label for="file" class="form-label">Add File:</label>
-                <input type="file" class="form-control" name="file" id="file" required>
-            </div>
-            <button type="submit" name="submit" class="btn btn-success">Submit</button>
-        </form>
-    </div> -->
 
 
 

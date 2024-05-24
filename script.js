@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
       if (storedUser.email === email && storedUser.password === password) {
         // alert("Login successful!");
         // loginForm.reset();
-         window.location.href = "index.php";
+         window.location.href = "./student/Files.php";
       } else {
         alert("Incorrect email or password.");
       }
