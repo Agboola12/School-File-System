@@ -35,7 +35,7 @@
           <a class="nav-link" href="./student/Files.php">Upload File</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./student/display.php" >Display</a>
+          <a class="nav-link" href="./student/display.php" >Display File</a>
         </li>
       <li class="nav-item">
           <a class="nav-link" href="register.php" >Logout</a>
