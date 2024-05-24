@@ -28,15 +28,13 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
+        
         <!-- <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="#">Home</a>
-        </li> -->
-        <li class="nav-item">
           <a class="nav-link" href="./student/Files.php">Upload File</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="./student/display.php" >Display Files</a>
-        </li>
+        </li> -->
       <li class="nav-item">
           <a class="nav-link" href="register.php" >Login</a>
       </li>

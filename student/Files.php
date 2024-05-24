@@ -220,7 +220,7 @@
                                     <div class="col-lg-12">
                                         <div class="form-floating mb-3">
                                             <input type="file" class="form-control" name="file" id="file" required>
-                                            <label>Password</label>
+                                            <label>Upload File</label>
                                         </div>          
                                         </div>
                                     <div class="col-lg-12">

@@ -37,7 +37,7 @@
 // 
   
 
-session_start();
+// session_start();
 
 $errors = array();
 
