@@ -31,12 +31,12 @@
         <!-- <li class="nav-item">
           <a class="nav-link " aria-current="page" href="#">Home</a>
         </li> -->
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="./student/Files.php">Upload File</a>
-        </li> -->
-<!--         <li class="nav-item">
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="./student/display.php" >Display Files</a>
-        </li> -->
+        </li>
       <li class="nav-item">
           <a class="nav-link" href="register.php" >Login</a>
       </li>
